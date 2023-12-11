@@ -1,10 +1,15 @@
 #include <iostream>
+using namespace std;
 
 int main() {
-    int a  =  20; b = 30;
-    int c = 4, output;
+ int i = 0;
 
-    outpot = a - b/c;
-    count << output: << output << \n;
-    return 0;
+while(i < 58){
+
+    char x = 'A'+i;
+
+    cout << x;
+
+    i++;
+}
 }
